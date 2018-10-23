@@ -1,0 +1,356 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: nginx/1.12.2
+MySQL version 		: 5.5.5
+PHP Version 		: 7.1.17
+PHP Max Input Vars 	: 3000
+PHP Max Post Size 	: 256M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 256 MB
+Memory Limit 		: 128M
+Timezone 		: 0
+
+-----
+
+Importing Started! - 21:09:51 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 21:09:51 UTC
+
+---
+
+2. Importing "XML"  - 21:09:53 UTC
+Imported "Menu" (nav_menu)
+Term 7 remapped to 2
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Imported "page" (elementor_library_type)
+Term 6 remapped to 3
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Imported "Contact form" (Contact Form)
+Post 4 remapped to 10
+Imported "Home" (Page)
+Post 7 remapped to 11
+Imported "About" (Page)
+Post 20 remapped to 20
+Imported "e-Books" (Page)
+Post 21 remapped to 21
+Imported "Courses" (Page)
+Post 22 remapped to 22
+Imported "Contact" (Page)
+Post 24 remapped to 24
+Imported "Blog" (Page)
+Post 25 remapped to 25
+Imported "" (Navigation Menu Item)
+Post 26 remapped to 26
+Processing menu item post_type
+Menu item 25 mapped to 25
+Imported "" (Navigation Menu Item)
+Post 27 remapped to 27
+Processing menu item post_type
+Menu item 24 mapped to 24
+Imported "" (Navigation Menu Item)
+Post 28 remapped to 28
+Processing menu item post_type
+Menu item 22 mapped to 22
+Imported "" (Navigation Menu Item)
+Post 29 remapped to 29
+Processing menu item post_type
+Menu item 21 mapped to 21
+Imported "" (Navigation Menu Item)
+Post 30 remapped to 30
+Processing menu item post_type
+Menu item 20 mapped to 20
+Imported "" (Navigation Menu Item)
+Post 31 remapped to 31
+Processing menu item post_type
+Menu item 7 mapped to 11
+Imported "courses-01-free-img" (Media)
+Post 52 remapped to 52
+Imported "courses-02-free-img" (Media)
+Post 53 remapped to 53
+Imported "courses-03-free-img" (Media)
+Post 54 remapped to 54
+Imported "courses-04-free-img" (Media)
+Post 55 remapped to 55
+Imported "courses-05-free-img" (Media)
+Post 56 remapped to 56
+Imported "courses-06-free-img" (Media)
+Post 57 remapped to 57
+Imported "e-book-01-free-img" (Media)
+Post 58 remapped to 58
+Imported "e-book-02-free-img" (Media)
+Post 59 remapped to 59
+Imported "e-book-03-free-img" (Media)
+Post 60 remapped to 60
+Imported "e-book-04-free-img" (Media)
+Post 61 remapped to 61
+Imported "e-book-05-free-img" (Media)
+Post 62 remapped to 62
+Imported "e-book-06-free-img" (Media)
+Post 63 remapped to 63
+Imported "testimonials-free-img" (Media)
+Post 67 remapped to 67
+Imported "favicon-free-img" (Media)
+Post 68 remapped to 68
+Imported "icon-03-free-img" (Media)
+Post 69 remapped to 69
+Imported "logo-@2x-free-img" (Media)
+Post 70 remapped to 70
+Imported "logo-01-free-img" (Media)
+Post 71 remapped to 71
+Imported "logo-03-free-img" (Media)
+Post 73 remapped to 73
+Imported "logo-04-free-img" (Media)
+Post 74 remapped to 74
+Imported "logo-05-free-img" (Media)
+Post 75 remapped to 75
+Imported "logo-07-free-img" (Media)
+Post 77 remapped to 77
+Imported "logo-regular-free-img" (Media)
+Post 78 remapped to 78
+Imported "cropped-favicon-free-img.png" (Media)
+Post 81 remapped to 81
+Imported "blog-01-free-img" (Media)
+Post 88 remapped to 88
+Imported "blog-02-free-img" (Media)
+Post 89 remapped to 89
+Imported "blog-03-free-img" (Media)
+Post 90 remapped to 90
+Imported "Writing is simple when lorem quis bibendum" (Post)
+Post 91 remapped to 91
+Imported "Becoming a great conversationalist" (Post)
+Post 92 remapped to 92
+Imported "Let me help you urna eu felis dapibus" (Post)
+Post 93 remapped to 93
+Imported "hero-free-img" (Media)
+Post 98 remapped to 98
+Imported "hero-small-free-img" (Media)
+Post 99 remapped to 99
+Imported "story-free-img" (Media)
+Post 100 remapped to 100
+Imported "demo_screenshot" (Media)
+Post 101 remapped to 101
+Imported "logo-03-free-img" (Media)
+Post 104 remapped to 104
+Imported "logo-07-free-img" (Media)
+Post 105 remapped to 105
+Running post-processing for post 10
+Could not find the author for "Contact form" (post #10)
+Post 10 was imported with author "sujay", but could not be found
+Post 10 was marked for post-processing, but none was required.
+Running post-processing for post 11
+Could not find the author for "Home" (post #11)
+Post 11 was imported with author "alex", but could not be found
+Running post-processing for post 20
+Could not find the author for "About" (post #20)
+Post 20 was imported with author "alex", but could not be found
+Post 20 was marked for post-processing, but none was required.
+Running post-processing for post 21
+Could not find the author for "e-Books" (post #21)
+Post 21 was imported with author "alex", but could not be found
+Running post-processing for post 22
+Could not find the author for "Courses" (post #22)
+Post 22 was imported with author "alex", but could not be found
+Post 22 was marked for post-processing, but none was required.
+Running post-processing for post 24
+Could not find the author for "Contact" (post #24)
+Post 24 was imported with author "alex", but could not be found
+Post 24 was marked for post-processing, but none was required.
+Running post-processing for post 25
+Could not find the author for "Blog" (post #25)
+Post 25 was imported with author "alex", but could not be found
+Post 25 was marked for post-processing, but none was required.
+Running post-processing for post 26
+Could not find the author for "" (post #26)
+Post 26 was imported with author "alex", but could not be found
+Post 26 was marked for post-processing, but none was required.
+Running post-processing for post 27
+Could not find the author for "" (post #27)
+Post 27 was imported with author "alex", but could not be found
+Post 27 was marked for post-processing, but none was required.
+Running post-processing for post 28
+Could not find the author for "" (post #28)
+Post 28 was imported with author "alex", but could not be found
+Post 28 was marked for post-processing, but none was required.
+Running post-processing for post 29
+Could not find the author for "" (post #29)
+Post 29 was imported with author "alex", but could not be found
+Post 29 was marked for post-processing, but none was required.
+Running post-processing for post 30
+Could not find the author for "" (post #30)
+Post 30 was imported with author "alex", but could not be found
+Post 30 was marked for post-processing, but none was required.
+Running post-processing for post 31
+Could not find the author for "" (post #31)
+Post 31 was imported with author "alex", but could not be found
+Post 31 was marked for post-processing, but none was required.
+Running post-processing for post 52
+Could not find the author for "courses-01-free-img" (post #52)
+Post 52 was imported with author "alex", but could not be found
+Post 52 was marked for post-processing, but none was required.
+Running post-processing for post 53
+Could not find the author for "courses-02-free-img" (post #53)
+Post 53 was imported with author "alex", but could not be found
+Post 53 was marked for post-processing, but none was required.
+Running post-processing for post 54
+Could not find the author for "courses-03-free-img" (post #54)
+Post 54 was imported with author "alex", but could not be found
+Post 54 was marked for post-processing, but none was required.
+Running post-processing for post 55
+Could not find the author for "courses-04-free-img" (post #55)
+Post 55 was imported with author "alex", but could not be found
+Post 55 was marked for post-processing, but none was required.
+Running post-processing for post 56
+Could not find the author for "courses-05-free-img" (post #56)
+Post 56 was imported with author "alex", but could not be found
+Post 56 was marked for post-processing, but none was required.
+Running post-processing for post 57
+Could not find the author for "courses-06-free-img" (post #57)
+Post 57 was imported with author "alex", but could not be found
+Post 57 was marked for post-processing, but none was required.
+Running post-processing for post 58
+Could not find the author for "e-book-01-free-img" (post #58)
+Post 58 was imported with author "alex", but could not be found
+Post 58 was marked for post-processing, but none was required.
+Running post-processing for post 59
+Could not find the author for "e-book-02-free-img" (post #59)
+Post 59 was imported with author "alex", but could not be found
+Post 59 was marked for post-processing, but none was required.
+Running post-processing for post 60
+Could not find the author for "e-book-03-free-img" (post #60)
+Post 60 was imported with author "alex", but could not be found
+Post 60 was marked for post-processing, but none was required.
+Running post-processing for post 61
+Could not find the author for "e-book-04-free-img" (post #61)
+Post 61 was imported with author "alex", but could not be found
+Post 61 was marked for post-processing, but none was required.
+Running post-processing for post 62
+Could not find the author for "e-book-05-free-img" (post #62)
+Post 62 was imported with author "alex", but could not be found
+Post 62 was marked for post-processing, but none was required.
+Running post-processing for post 63
+Could not find the author for "e-book-06-free-img" (post #63)
+Post 63 was imported with author "alex", but could not be found
+Post 63 was marked for post-processing, but none was required.
+Running post-processing for post 67
+Could not find the author for "testimonials-free-img" (post #67)
+Post 67 was imported with author "alex", but could not be found
+Post 67 was marked for post-processing, but none was required.
+Running post-processing for post 68
+Could not find the author for "favicon-free-img" (post #68)
+Post 68 was imported with author "alex", but could not be found
+Post 68 was marked for post-processing, but none was required.
+Running post-processing for post 69
+Could not find the author for "icon-03-free-img" (post #69)
+Post 69 was imported with author "alex", but could not be found
+Post 69 was marked for post-processing, but none was required.
+Running post-processing for post 70
+Could not find the author for "logo-@2x-free-img" (post #70)
+Post 70 was imported with author "alex", but could not be found
+Post 70 was marked for post-processing, but none was required.
+Running post-processing for post 71
+Could not find the author for "logo-01-free-img" (post #71)
+Post 71 was imported with author "alex", but could not be found
+Post 71 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "logo-03-free-img" (post #73)
+Post 73 was imported with author "alex", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 74
+Could not find the author for "logo-04-free-img" (post #74)
+Post 74 was imported with author "alex", but could not be found
+Post 74 was marked for post-processing, but none was required.
+Running post-processing for post 75
+Could not find the author for "logo-05-free-img" (post #75)
+Post 75 was imported with author "alex", but could not be found
+Post 75 was marked for post-processing, but none was required.
+Running post-processing for post 77
+Could not find the author for "logo-07-free-img" (post #77)
+Post 77 was imported with author "alex", but could not be found
+Post 77 was marked for post-processing, but none was required.
+Running post-processing for post 78
+Could not find the author for "logo-regular-free-img" (post #78)
+Post 78 was imported with author "alex", but could not be found
+Post 78 was marked for post-processing, but none was required.
+Running post-processing for post 81
+Could not find the author for "cropped-favicon-free-img.png" (post #81)
+Post 81 was imported with author "alex", but could not be found
+Post 81 was marked for post-processing, but none was required.
+Running post-processing for post 88
+Could not find the author for "blog-01-free-img" (post #88)
+Post 88 was imported with author "alex", but could not be found
+Post 88 was marked for post-processing, but none was required.
+Running post-processing for post 89
+Could not find the author for "blog-02-free-img" (post #89)
+Post 89 was imported with author "alex", but could not be found
+Post 89 was marked for post-processing, but none was required.
+Running post-processing for post 90
+Could not find the author for "blog-03-free-img" (post #90)
+Post 90 was imported with author "alex", but could not be found
+Post 90 was marked for post-processing, but none was required.
+Running post-processing for post 91
+Could not find the author for "Writing is simple when lorem quis bibendum" (post #91)
+Post 91 was imported with author "alex", but could not be found
+Post 91 was marked for post-processing, but none was required.
+Running post-processing for post 92
+Could not find the author for "Becoming a great conversationalist" (post #92)
+Post 92 was imported with author "alex", but could not be found
+Post 92 was marked for post-processing, but none was required.
+Running post-processing for post 93
+Could not find the author for "Let me help you urna eu felis dapibus" (post #93)
+Post 93 was imported with author "alex", but could not be found
+Post 93 was marked for post-processing, but none was required.
+Running post-processing for post 98
+Could not find the author for "hero-free-img" (post #98)
+Post 98 was imported with author "alex", but could not be found
+Post 98 was marked for post-processing, but none was required.
+Running post-processing for post 99
+Could not find the author for "hero-small-free-img" (post #99)
+Post 99 was imported with author "alex", but could not be found
+Post 99 was marked for post-processing, but none was required.
+Running post-processing for post 100
+Could not find the author for "story-free-img" (post #100)
+Post 100 was imported with author "alex", but could not be found
+Post 100 was marked for post-processing, but none was required.
+Running post-processing for post 101
+Could not find the author for "demo_screenshot" (post #101)
+Post 101 was imported with author "alex", but could not be found
+Post 101 was marked for post-processing, but none was required.
+Running post-processing for post 104
+Could not find the author for "logo-03-free-img" (post #104)
+Post 104 was imported with author "harshadd", but could not be found
+Post 104 was marked for post-processing, but none was required.
+Running post-processing for post 105
+Could not find the author for "logo-07-free-img" (post #105)
+Post 105 was imported with author "harshadd", but could not be found
+Post 105 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 21:10:29 UTC
+
+---
+
+4. Importing "Widgets"  - 21:10:30 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists

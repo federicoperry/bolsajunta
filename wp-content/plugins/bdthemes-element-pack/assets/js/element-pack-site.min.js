@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){"use strict";a("body").find(".elementor-widget-bdt-offcanvas")&&a("body").wrapInner('<div class="bdt-offcanvas-content" />'),a(".parallax-scene").each(function(){try{var e=a(this).next(".has-bdt-parallax")[0];a(this).prependTo(e);new Parallax(this)}catch(a){console.log(a.message)}})});
